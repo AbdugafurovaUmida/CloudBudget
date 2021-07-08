@@ -1,0 +1,292 @@
+body{
+    margin: 0px;
+    font-family: 'Lato','sans-serif';
+}
+a{
+    text-decoration: none;
+}
+.header-menu{
+    color: #fff;
+    background-image: url(../img/Bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #EE3D1B;
+    padding-bottom: 203px;
+}
+.header-menu header{
+    padding-top: 50px;
+    text-align: center;
+}
+.header-menu .nav-menu{
+   margin-left: 160px ;
+   margin-right: 115px ;
+
+}
+.header-menu .nav-menu a{
+    margin: 0 10px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.header-menu header * {
+    display: inline-block;
+    vertical-align: middle;
+}
+.header-menu .header-title{
+    text-align: center;
+}
+.header-menu .header-title h1{
+    margin-top: 177px;
+    margin-bottom: 39px;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 86px;
+    text-transform: uppercase;
+}
+.header-menu .header-title p{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+    margin-bottom: 70px;
+}
+.header-menu .header-title a{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #ED4C5C;
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    padding: 17px 52px;
+}
+.header-buttons a{
+    font-size: 14px;  
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.header-buttons a img{
+    margin-right: 12px;
+}
+.header-buttons .button{
+    margin-left: 28px;
+    padding: 12px 28px;
+    border: 1px solid #ffffff;
+    border-radius: 6px;
+}
+.title-details{
+    vertical-align: middle;
+}
+.title-details .details-text{
+    display: inline-block;
+    width: 445px;
+    padding: 0px 0px 0px 165px;
+}
+.title-details .details-text h1{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    padding-bottom: 24px;
+}
+.title-details .details-text p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+}
+
+.title-details .details-text a{
+    color: #ED4C5C;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    
+}
+.title-details .details-image{
+    display: inline-block;
+    padding: 94px 0px 95px 125px ;
+}
+.types {
+    text-align: center;
+    background-color: #FAFAFA;
+    padding: 63px 0px 48px;
+}
+.types h2{
+    margin-bottom: 65px;
+}
+.types h3{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+}
+.types p{
+    padding-bottom: 30px;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 150%;
+    color: #101010;
+}
+.types a{
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 150%;
+    color: #ED4C5C;
+}
+.types .supports{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 15px;
+
+}
+.types .expenses{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 15px;
+ 
+}
+.types .management{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 15px;
+   
+
+} 
+.types .supports .info-cards{ 
+    width: 293px;
+    height: 198px;
+    background-color: #ffffff;
+    margin: auto  ;
+    padding-top: 20px;
+     width: 350px;
+     margin-top: -10px;
+}
+.types .expenses .info-expen{ 
+    width: 293px;
+    height: 198px;
+    background-color: #ffffff;
+    margin: auto ;
+    padding-top: 20px;
+    width: 350px;
+    margin-top: -10px;
+}
+.types .management .info-cloud-budget{ 
+    width: 293px;
+    height: 198px;
+    background-color: #FFFFFF;
+    margin: auto;
+    padding-top: 20px;
+    width: 350px;
+    margin-top: -10px;
+} 
+.technology{
+    text-align: center;
+}
+.technology .frame{
+    width: 225px;
+    height: 226px;
+    margin: 0px 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.technology .frame h3{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+
+}
+.technology p{
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    vertical-align: middle;
+}
+.about{
+    background-color: #ED4C5C;
+}
+.about .our-site{
+    width:445px ; 
+    display: inline-block;  
+    margin: 0px 80px 0px 0px;
+    padding: 0px 0px 0px 150px;
+    vertical-align: middle;
+}
+.about .slider{
+    margin: 94px 0px 95px;
+    vertical-align: middle;
+}
+.about .our-site h3{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+.about .our-site p{
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-bottom: 44px;
+}
+.about .our-site img{
+    margin-right: 25px;
+}
+.contact{
+    padding-left:176px ;
+    
+}
+.contact .just{
+    margin: 117px 0px 200px;
+}
+.contact .just h2{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+.contact .just p{
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+.footer{
+    padding: 85px 166px 80px;
+    background-color:#FAFAFA ;
+    
+}
+.footer .address{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 120px;
+}
+.footer .support{
+    display: inline-block;
+    vertical-align: top;
+
+}
+.footer .cloud-budget{
+    margin: 50px 0px 0px;
+}
+.footer h3{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+.footer p{
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 150%;
+    color: #101010;
+}
+.footer a{
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #101010;
+}
+.footer .address i{
+    margin-right: 13px;
+}
